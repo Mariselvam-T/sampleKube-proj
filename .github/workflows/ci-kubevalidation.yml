@@ -13,4 +13,3 @@ jobs:
       with:
         manifests-folders: './manifests/*.yaml'
         ignore-exit-code: true
-        output-file: ''
