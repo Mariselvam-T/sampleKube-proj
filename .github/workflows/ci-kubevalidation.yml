@@ -13,4 +13,4 @@ jobs:
       with:
         manifests-folders: './manifests/*.yaml'
         ignore-exit-code: true
-        output-file: ./KubeScan-Output/kubevalidation.txt
+        output-file: kubevalidation.txt
